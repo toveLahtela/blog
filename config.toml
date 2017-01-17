@@ -1,0 +1,8 @@
+siteTitle="Gämbläys Blogi"
+baseColor = "#2c3e50"
+linkPrefix = "/"
+docPages = [
+  "/blogi/",
+  "/blogi/ilmaiskierroksia-ilman-depoa/",
+  "/blogi/yleisimmat-kasinobonukset/",
+]
